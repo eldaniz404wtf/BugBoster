@@ -14,7 +14,7 @@ BugBoster is a vulnerability detection tool developed for cybersecurity speciali
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/eldaniz404wtf/bugboster.git
+    git clone https://github.com/eldaniz404wtf/BugBoster.git
     ```
 2. Navigate to the BugBoster directory:
     ```bash
