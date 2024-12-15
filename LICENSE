@@ -1,64 +1,105 @@
 MIT License
+
 Copyright (c) 2024 Eldaniz404wtf, İbrahimows Cyber Security
 
-Permission is hereby granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+This software is subject to the terms of the following license agreement. All users of this software are considered to have accepted these terms. Please read the terms of the license carefully.
 
-Usage Rights The Software can be used for personal and non-commercial purposes. Commercial use is permitted only with explicit written consent from the original developer.
+1. License Validity and Terms
+1.1. This software may be used by users who comply with the specified license terms.
+1.2. The software may only be used for personal and non-commercial purposes.
+1.3. The license becomes effective when accepted by the user and the use of the software constitutes agreement to these terms.
 
-Prohibition of Sale The Software cannot be sold without the express permission of the original developer. Any version or derivative of the Software can only be distributed for free along with this license.
+2. Commercial Use of the Software
+2.1. If the software is to be used for commercial purposes, written permission is required.
+2.2. Commercial distribution or use of the software is only allowed with the explicit written permission of the developer.
+2.3. Unless commercial usage permission is granted, the software is only valid for personal use.
 
-Distribution and Sharing The Software can be shared and distributed, provided that the license text is included with the original Software. However, sharing the Software on any platform must be approved in writing by the original developer.
+3. Prohibition of Sale
+3.1. The sale of the software on any platform is prohibited.
+3.2. The software may not be sold for any price.
+3.3. The software may only be distributed for free.
 
-Modifications and Derivative Works Any modifications or derivative works of the Software must be published under the same license as the original Software. Modifications, integration, or redistribution require the explicit written permission of the original developer.
+4. Distribution and Sharing Terms
+4.1. The software may be shared in its original form or as derivatives, but must be accompanied by this license text.
+4.2. The software must be shared with its original name and license information.
+4.3. Distribution of the software may only be done for free, and no fees may be charged.
 
-Improvement and Development Restrictions Any improvements or modifications to the Software cannot be shared, sold, or distributed without written consent from the original developer. Unauthorized changes to the Software should not alter its quality or functionality.
+5. Modifications and Derivative Works
+5.1. Any modification or derivative work of the software requires written permission.
+5.2. Modifications should not harm the original purpose of the software.
+5.3. After modifications are made, derivative versions of the software must be distributed under the same license.
 
-Security Awareness Any security vulnerabilities found in the Software should not be exploited or shared until a security update is provided by the developer. Security vulnerabilities should be reported to the developer in a respectful and constructive manner.
+6. Security Responsibilities
+6.1. Security vulnerabilities found in the software should not be shared without the developer's consent.
+6.2. When security vulnerabilities are found, they must be reported to the developer with proposed solutions.
+6.3. Users may not engage in activities that compromise the security of the software.
 
-Commercial Use The Software cannot be used as part of any commercial product or service without explicit written consent from the original developer.
+7. User Responsibilities
+7.1. The software should only be used for legal and ethical purposes.
+7.2. Users may not misuse the software to harm third parties.
+7.3. Users must fully comply with the terms set by the developer when using the software.
 
-Prohibited Use for Malicious Activities The Software cannot be used for any unlawful, malicious, or harmful activities, including but not limited to hacking, malware development, or data theft.
+8. Use of Third-Party Software
+8.1. Licenses for third-party software used in the software are included in the software’s license terms.
+8.2. The license terms for third-party software must be accepted by users.
+8.3. Violating third-party software licenses constitutes a breach of this license.
 
-Copyright and Ownership All copyrights for the Software are owned by Eldaniz404wtf and İbrahimows Cyber Security. Any changes or improvements to the Software must be approved by the original developer.
+9. Unauthorized Use and License Violation
+9.1. Unauthorized use of the software constitutes a violation of the license and may result in legal consequences.
+9.2. The developer may initiate legal proceedings if unauthorized distribution or sale of the software is detected.
+9.3. In the case of a license violation, the user accepts full legal responsibility.
 
-Prohibition of Unauthorized Sales The Software can only be distributed along with the original license. No part of the Software can be sold independently without explicit permission.
+10. Software Updates and Improvements
+10.1. Updates to the software may be provided by the developer.
+10.2. Using the latest version of the software is required to receive performance improvements and security updates.
+10.3. Updates will be communicated to the software users, and the update process must be accepted by the user.
 
-License Modification This license applies to all versions of the Software and may only be changed by the original developer. Users cannot alter the terms of this license.
+11. Support and Assistance
+11.1. Support and assistance regarding the software are provided through communication channels designated by the developer.
+11.2. Users may report issues with the software to the developer.
+11.3. The developer agrees to provide technical support, but support duration may be limited.
 
-No Warranty The Software is provided “as is,” without any warranty. The developer cannot be held responsible for any damages, losses, or legal issues arising from the use of the Software.
+12. Changes to the Terms of Use
+12.1. The developer reserves the right to change the terms of this license agreement.
+12.2. Changes will be communicated with the software and presented for user acceptance.
+12.3. Users who do not agree with the new terms must cease using the software.
 
-Free Distribution Only The Software can only be distributed for free. Selling the Software requires written consent from the original developer. Any paid distribution is a violation of this license.
+13. Backup and Storage
+13.1. Users are responsible for backing up any data obtained through the software.
+13.2. The developer is not responsible for any data loss in the software.
+13.3. Users must back up all data in the event of software changes or data loss.
 
-Privacy and Data Collection The Software does not collect or store any user data. Any personal information collected during use must be shared with the developer if required. Privacy is a priority for this Software.
+14. Shareability and Distribution Platforms
+14.1. Permission from the developer is required before sharing the software on any distribution platform.
+14.2. The software may only be shared through legal and ethical distribution channels.
+14.3. Distribution on other platforms must be done in accordance with the original developer’s permission.
 
-Integration with Other Software The Software can be integrated with other software, but this requires written approval from the original developer. Any changes to the Software should not disrupt its core functionality.
+15. Use of the Software for Malicious Purposes
+15.1. The software may not be used for malicious activities or illegal purposes.
+15.2. The software may only be used for legal security testing and ethical purposes.
+15.3. Misuse of the software may result in the immediate termination of the license.
 
-License Validity This license will be valid for all versions of the Software. Any new releases of the Software will comply with this license or any new licenses issued by the developer.
+16. Unauthorized Software Distribution
+16.1. The software may not be distributed to others without authorization.
+16.2. Unauthorized distribution may only occur with the approval of the original developer.
+16.3. The software may only be distributed through platforms that comply with this license.
 
-Abuse Monitoring The Software cannot be used for malicious purposes. If such activity is detected, the user’s right to use the Software will be revoked immediately.
+17. Limitation of Liability
+17.1. The use of the software is the responsibility of the user.
+17.2. The developer is not liable for any damages arising from the use of the software.
+17.3. The software is provided "as is" without any warranties.
 
-Code Ownership The source code of the Software remains the property of the original developer. Any redistribution or modification of the code without approval is prohibited.
+18. Protection of User Information
+18.1. The software does not collect or share user information.
+18.2. User information may be collected to improve the software's performance, but only with the developer’s consent.
+18.3. Users can ask the developer any questions regarding the software’s data collection or analysis functions.
 
-Educational Use The Software can be used for educational purposes, but only if approved by the original developer.
+19. Legal Obligations
+19.1. Users must comply with legal regulations while using the software.
+19.2. Users accept full legal responsibility for any unlawful use of the software.
+19.3. The developer is not responsible for any illegal use of the software.
 
-Contributions Any contributions to the Software can only be submitted if explicitly accepted by the original developer. All contributions must be compatible with the original license.
-
-Replication The Software can be replicated, but only in accordance with this license and with the inclusion of the original license text.
-
-Security Updates Security updates will be provided only by the original developer. The Software may contain vulnerabilities until such updates are made available.
-
-Private Use in Projects The Software can be used in private projects as long as it is used in accordance with the terms of this license.
-
-Prohibited Changes Changes to the Software can only be made with the express permission of the original developer. Any alterations must not alter the integrity of the original Software.
-
-Support The original developer is not required to provide support for the Software. Support is voluntary and not guaranteed.
-
-Publication of the Software The Software can be published on any media platform, but the original license must always be included.
-
-Future Changes The Software can be modified by the original developer in the future, but such modifications must comply with this license.
-
-Backup Copies Backup copies of the Software can be made, but only in compliance with this license and must include the original license text.
-
-Legal Obligations The use of the Software must comply with applicable local laws. The original developer or copyright holder is not responsible for any legal violations.
-
-Violation of License Users who violate the terms of this license will lose the right to use the Software and its associated features.
+20. Termination and License Revocation
+20.1. If the user fails to comply with the terms of this license, the license will be revoked.
+20.2. Upon license revocation, the user must immediately stop using the software.
+20.3. After the license is revoked, the software’s use will be terminated.
